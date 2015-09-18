@@ -52,7 +52,7 @@
   border-left: 15px solid #ccc;
   border-right: 0 solid #ccc;
   border-bottom: 15px solid transparent;
-  content: " ";
+  /*content: " ";*/
 }
 .timeline > li > .timeline-panel:after {
   position: absolute;
@@ -63,7 +63,7 @@
   border-left: 14px solid #fff;
   border-right: 0 solid #fff;
   border-bottom: 14px solid transparent;
-  content: " ";
+  /*content: " ";*/
 }
 .timeline > li > .timeline-badge {
   color: #fff;
