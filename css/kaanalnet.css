@@ -1,1 +1,2 @@
-#faq .container, #news .container { text-align: center; }
+#faq .container, #news .container, #tutorial .container { text-align: center; }
+#footer a { color: #fff; }
